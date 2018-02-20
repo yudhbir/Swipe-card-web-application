@@ -1,1 +1,2 @@
 # Swipe-card-web-application
+Swipe card functionality work fine for read the magnetic strip credit card after swipe on swipe device. it return the user card name account number and expire month year. you have to use only the usb port swipe device attach it to your system and run the index.php file. here you will get get a swipe button click on it and swipe your card on the swipe device  and you will get result
